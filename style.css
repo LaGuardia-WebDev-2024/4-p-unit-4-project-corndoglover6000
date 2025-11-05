@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Loving Babes';
     src: url('LovingBabes.woff2') format('woff2'),
-        url('LovingBabes.woff') format('woff');
+        url('LovingBabes.woff') format('woff'),
+        url('LOVBABE_.TTF');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,7 +11,8 @@
 @font-face {
     font-family: 'Bigcurls';
     src: url('Bigcurls.woff2') format('woff2'),
-        url('Bigcurls.woff') format('woff');
+        url('Bigcurls.woff') format('woff'),
+        url('Bigcurls.ttf');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -19,7 +21,8 @@
 @font-face {
     font-family: 'Rascal';
     src: url('Rascal.woff2') format('woff2'),
-        url('Rascal.woff') format('woff');
+        url('Rascal.woff') format('woff'),
+        url('RASCAL__.TTF');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -28,7 +31,8 @@
 @font-face {
     font-family: 'Ponyville';
     src: url('Ponyville.woff2') format('woff2'),
-        url('Ponyville.woff') format('woff');
+        url('Ponyville.woff') format('woff'),
+        url('PonyvilleMedium-3636.ttf');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -37,9 +41,9 @@
 @font-face {
     font-family: 'ReBucked';
     src: url('ReBucked.woff2') format('woff2'),
-        url('ReBucked.woff') format('woff');
+        url('ReBucked.woff') format('woff'),
+        url('rebucked.ttf');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
